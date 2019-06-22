@@ -33,6 +33,7 @@
   },
   "jest": {
     "verbose": true,
-    "testURL": "http://locahost/"
+    "testURL": "http://locahost/",
+    "setupTestFrameworkScriptFile": "./tests/setup.js"
   }
 }
